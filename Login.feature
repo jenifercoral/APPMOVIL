@@ -22,7 +22,7 @@ Feature: Login
     """
     nombre: Jenifer
     MontoDisponibleCienta:1000
-    LineaDisponible:1000
+    LineaDisponible:100000
     """
 
 
